@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697053712
+icon.svg::CompressedTexture2D::4454119254027574954::1694892861::1697053488::1::::<><>::
+main_menu.tscn::PackedScene::6972126315293164569::1697053688::0::1::::<><>::uid://cprwq1f3j5ce0::::res://styles/buttonStyles/button_style.tres<>uid://1s55cxii2x5h::::res://styles/buttonStyles/button_style_hover.tres
+::res://styles/::1697053712
+::res://styles/buttonStyles/::1697053686
+button_style.tres::StyleBoxFlat::5862134164935570921::1694894904::0::1::::<><>::
+button_style_hover.tres::StyleBoxFlat::1863943958714523511::1694895129::0::1::::<><>::
+::res://styles/fonts/::1697054010
+ren_regular.tres::FontFile::-1::1668601913::0::1::::<><>::
+ren_regular.ttf::FontFile::5379412114658400894::1409005572::1697054011::1::::<><>::

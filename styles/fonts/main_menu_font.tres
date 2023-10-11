@@ -1,0 +1,32 @@
+[gd_resource type="Theme" load_steps=6 format=3 uid="uid://24kyrmfmgl8g"]
+
+[ext_resource type="FontFile" uid="uid://civ3eqd40ocaw" path="res://styles/fonts/ren_regular.ttf" id="1_r418o"]
+[ext_resource type="StyleBox" uid="uid://btd4e5dlstt5i" path="res://styles/buttonStyles/button_style_focus.tres" id="2_oeg1y"]
+[ext_resource type="StyleBox" uid="uid://1s55cxii2x5h" path="res://styles/buttonStyles/button_style_hover.tres" id="3_w1iil"]
+[ext_resource type="StyleBox" uid="uid://cprwq1f3j5ce0" path="res://styles/buttonStyles/button_style.tres" id="4_g1oqd"]
+[ext_resource type="StyleBox" uid="uid://dohlafavan4ee" path="res://styles/buttonStyles/button_style_pressed.tres" id="5_ja3uv"]
+
+[resource]
+resource_local_to_scene = true
+resource_name = "FontStyle1"
+default_font = ExtResource("1_r418o")
+default_font_size = 43
+/colors/color = Color(0, 0, 0, 1)
+/constants/option = 12
+/font_sizes/options2 = 33
+/fonts/theme = ExtResource("1_r418o")
+/styles/what = null
+Button/colors/font_color = Color(0, 0, 0, 1)
+Button/colors/font_focus_color = Color(0, 0, 0, 1)
+Button/colors/font_hover_color = Color(0, 0, 0, 1)
+Button/colors/font_hover_pressed_color = Color(0, 0, 0, 1)
+Button/colors/font_outline_color = Color(0.431373, 0.423529, 0.392157, 1)
+Button/colors/font_pressed_color = Color(0, 0, 0, 1)
+Button/constants/outline_size = 4
+Button/styles/focus = ExtResource("2_oeg1y")
+Button/styles/hover = ExtResource("3_w1iil")
+Button/styles/normal = ExtResource("4_g1oqd")
+Button/styles/pressed = ExtResource("5_ja3uv")
+Fonts/colors/Color = Color(0.388235, 0.203922, 0.0823529, 1)
+Label/colors/font_color = Color(0.0431373, 0.0431373, 0.0431373, 1)
+Label/colors/font_outline_color = Color(0.431373, 0.423529, 0.392157, 1)
