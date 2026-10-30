@@ -1,0 +1,53 @@
+[gd_scene format=3 uid="uid://b8uuuvbk635pv"]
+
+[ext_resource type="Script" uid="uid://dqs7u3wdlr63t" path="res://intro.gd" id="1_ayt76"]
+[ext_resource type="AudioStream" uid="uid://cnthn53tk2q4x" path="res://music/IntroMusic.wav" id="2_7a8ye"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_g4v7s"]
+font_size = 59
+shadow_size = 16
+shadow_color = Color(0.9372549, 0.93333334, 0.99607843, 0.39215687)
+shadow_offset = Vector2(3, 3)
+
+[node name="Intro" type="Control" unique_id=781475902]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_ayt76")
+next_scene = null
+
+[node name="Backgroung" type="ColorRect" parent="." unique_id=41238653]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.038474698, 0.04039682, 0.06837148, 1)
+
+[node name="Title" type="Label" parent="." unique_id=52623575]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -84.5
+offset_top = -47.625
+offset_right = 84.5
+offset_bottom = 47.625
+grow_horizontal = 2
+grow_vertical = 2
+text = "Mozz inc."
+label_settings = SubResource("LabelSettings_g4v7s")
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="IntroMusic" type="AudioStreamPlayer2D" parent="." unique_id=779796090]
+stream = ExtResource("2_7a8ye")
+volume_db = -8.156
+
+[node name="LabelAnimation" type="AnimationPlayer" parent="." unique_id=1818272510]

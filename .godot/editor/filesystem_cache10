@@ -1,7 +1,9 @@
 78098b89c88a74ebe8c20117b8754620
-::res://::1793365267
+::res://::1793367482
 icon.svg::CompressedTexture2D::4454119254027574954::1694889260::1697049888::1::::<><><>0<>0<>a4c17ede19614d855cd526e4351eecc3<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 main_menu.tscn::PackedScene::6972126315293164569::1697229002::0::1::::<><><>0<>0<><>::uid://24kyrmfmgl8g::::res://styles/fonts/main_menu_font.tres<>uid://cprwq1f3j5ce0::::res://styles/buttonStyles/button_style.tres<>uid://1s55cxii2x5h::::res://styles/buttonStyles/button_style_hover.tres<>uid://dohlafavan4ee::::res://styles/buttonStyles/button_style_pressed.tres<>uid://btd4e5dlstt5i::::res://styles/buttonStyles/button_style_focus.tres<>uid://b53xpenhedp3u::::res://styles/buttonStyles/Otrio_main_menu.tres
+::res://music/::1793367501
+IntroMusic.wav::AudioStreamWAV::5724969366110632841::1793367433::1793367505::1::::<><><>0<>0<>5062cb357d83a2687267aed93f8f3f68<>res://.godot/imported/IntroMusic.wav-ba36fae75afb70d7c1943aa76973f50a.sample::
 ::res://styles/::1793365216
 ::res://styles/buttonStyles/::1793365216
 button_style.tres::StyleBoxFlat::5862134164935570921::1694891304::0::1::::<><><>0<>0<><>::

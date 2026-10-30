@@ -1,2 +1,6 @@
-RichTextLabel
+AnimationPlayer
+AudioStreamPlayer2D
 Label
+ColorRect
+Control
+RichTextLabel
