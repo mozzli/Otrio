@@ -1,0 +1,14 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://b53xpenhedp3u"]
+
+[ext_resource type="FontFile" uid="uid://civ3eqd40ocaw" path="res://styles/fonts/ren_regular.ttf" id="1_bcl6t"]
+
+[resource]
+default_font = ExtResource("1_bcl6t")
+default_font_size = 125
+Label/colors/font_outline_color = Color(0, 0, 0, 1)
+Label/constants/line_spacing = 0
+Label/constants/outline_size = 19
+Label/constants/shadow_offset_x = 13
+Label/constants/shadow_offset_y = 17
+Label/constants/shadow_outline_size = 21
+Label/font_sizes/font_size = 125
